@@ -16,9 +16,3 @@ Packages
 - Install Sublime_Text_3143_x64.exe to D:\Sublime Text 3\
 - Run Sublime_Text_3_Right.reg
 - Unzip Sublime_Text_3_AppData.zip to `C:\Users\liuzy\AppData\Roaming\Sublime Text 3\`
-
-
-## My Deepin Linux
-- Download `http://download.sublimetext.com/sublime_text_3_build_3143_x64.tar.bz2`
-- Install
-- Unzip Sublime_Text_3_AppData.zip to `~/.config/Sublime Text 3/`
